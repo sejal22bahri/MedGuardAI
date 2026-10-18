@@ -133,14 +133,7 @@ Potential extensions include broader attack coverage, systematic evaluation of d
 
 These are future directions unless explicitly implemented in the repository.
 
-## Project Files
-
-- [Healthcare RAG Chatbot](code/Chatbot.ipynb)
-- [Automated Red-Team Evaluation](code/RedTeam_Hospital_Chatbot (1).ipynb)
-- [Project Report (PDF)](Red and Black Modern Clean Cyber Security Presentation (2).pdf)
-
-
-
+  
 ## ⚠️ Disclaimer
 
 MedGuardAI is intended for authorized AI security research and evaluation. Use synthetic data or appropriately authorized datasets and test environments. It is not a medical diagnostic tool and does not independently certify HIPAA, GDPR, or other regulatory compliance.
