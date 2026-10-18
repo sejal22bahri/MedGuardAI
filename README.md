@@ -133,6 +133,15 @@ Potential extensions include broader attack coverage, systematic evaluation of d
 
 These are future directions unless explicitly implemented in the repository.
 
+## 📂 Project Files
+
+- **[Healthcare RAG Chatbot](code/Chatbot.ipynb)** — RAG pipeline, retrieval, and PHI protection using Microsoft Presidio.
+- **[Automated Red-Team Evaluation](code/RedTeam_Hospital_Chatbot.ipynb)** — Security testing for prompt injection, sensitive-data leakage, and chatbot vulnerabilities.
+- **[Project Report](MedGuardAI_writeup.pdf)** — Detailed project documentation, methodology, and findings.
+- **Demo Video** — [Watch MedGuardAI in action](PASTE_YOUR_VIDEO_LINK_HERE)
+
+
+
   
 ## ⚠️ Disclaimer
 
