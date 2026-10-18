@@ -137,7 +137,8 @@ These are future directions unless explicitly implemented in the repository.
 
 - [Healthcare RAG Chatbot](code/Chatbot.ipynb)
 - [Automated Red-Team Evaluation](code/RedTeam_Hospital_Chatbot(1).ipynb)
-- [Project Presentation](Red and Black Modern Clean Cyber Security Presentation (2).pdf)
+- [Project Report (PDF)](MedGuardAI_writeup.pdf)
+
 
 
 ## ⚠️ Disclaimer
