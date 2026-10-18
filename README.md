@@ -138,7 +138,7 @@ These are future directions unless explicitly implemented in the repository.
 - **[Healthcare RAG Chatbot](code/Chatbot.ipynb)** — RAG pipeline, retrieval, and PHI protection using Microsoft Presidio.
 - **[Automated Red-Team Evaluation](code/RedTeam_Hospital_Chatbot%20(1).ipynb)** — Security testing for prompt injection, sensitive-data leakage, and chatbot vulnerabilities.
 - **[Project Report](MedGuardAI_writeup.pdf)** — Detailed project documentation, methodology, and findings.
-- **[Project Presentation (PPT)](PASTE_YOUR_PPT_FILENAME_HERE)** — Presentation explaining the project.
+- **[Project Presentation (PPT)](Red%20and%20Black%20Modern%20Clean%20Cyber%20Security%20Presentation%20(2).pdf)** — Presentation explaining the project.
 - **Demo Video** — [Watch MedGuardAI in action](VID-20260726-WA0012(1).mp4)
 
 
