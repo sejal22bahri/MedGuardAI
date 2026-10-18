@@ -82,7 +82,7 @@ The MedGuardAI dashboard visualizes security evaluation results across vulnerabl
 
 It presents metrics such as observed leakage rates, refusal rates, severity distribution, and attack-category results to help analyze chatbot behavior under adversarial testing.
 
-![MedGuardAI Security Dashboard](docs/images/security-dashboard.png)
+![MedGuardAI Security Dashboard](security-dashboard.png)
 
 *Illustrative project evaluation dashboard. Results depend on the tested configurations and evaluation methodology.*
 ## 📊 Preliminary Results
